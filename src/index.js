@@ -1,1 +1,3 @@
-alert("Hello Rocketseat");
+const soma = (a, b) => a + b;
+
+alert(soma(3, 3));
